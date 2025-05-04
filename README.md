@@ -23,9 +23,13 @@ Validates that the now-playing window can be dismissed and the user returns to t
 
 🔧 Project Structure
 ├── test/
+
 │ ├── specs/ # Test cases (Search & Play flow)
+
 │ └── pageobjects/ # Page Object Models (e.g. Homescreen, Search pages)
+
 ├── wdio.conf.js # WebdriverIO configuration
+
 └── README.md # Project overview
 
 
